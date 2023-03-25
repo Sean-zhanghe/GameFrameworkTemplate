@@ -1,0 +1,5 @@
+﻿#	场景配置表				
+#	Id		AssetName	BackgroundMusicId	Procedure
+#	int		string	int	string
+#	场景编号	备注	资源名称	背景音乐编号	流程名称
+	1	菜单场景	Menu	10002	ProcedureMenu

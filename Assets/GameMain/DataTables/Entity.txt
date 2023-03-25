@@ -1,0 +1,5 @@
+﻿#	实体表			
+#	Id		AssetName	EntityGroupId
+#	int		string	int
+#	实体编号	策划备注	资源名称	实体组Id
+	10001	玩家战机	PlayerShip	1001
